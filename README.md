@@ -1,3 +1,4 @@
+---
 # 🚗 Car Dataset Exploratory Data Analysis (EDA)
 
 This project focuses on performing exploratory data analysis (EDA) on a car dataset using Python libraries like **Pandas**, **NumPy**, and **Matplotlib**. The objective is to uncover trends and patterns in vehicle types, origins, and performance metrics.
